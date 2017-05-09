@@ -1,16 +1,5 @@
 # zootopia
 
-#### Follow the instructions in the markup 
+#### Follow the instructions in the markup
 
-#### All api calls will be made to practiceapi.devmounta.in/api/animals to get all the animals and practiceapi.devmounta.in/api/animals/:name to get specific animal 
-
-
- 
-
-
-
-
-
-
- 
-
+#### All api calls will be made to practiceapi.devmountain.com/api/animals to get all the animals and practiceapi.devmountain.com/api/animals/:name to get specific animal 
